@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.FormMantMedico.resources
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.xml
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.exe
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.xml
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\BackEnd.dll
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\BackEnd.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\bin\Debug\BackEnd.xml
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.exe
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.pdb

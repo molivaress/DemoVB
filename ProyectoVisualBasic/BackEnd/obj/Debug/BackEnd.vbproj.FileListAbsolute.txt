@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\bin\Debug\BackEnd.dll
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\bin\Debug\BackEnd.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\bin\Debug\BackEnd.xml
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.dll
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.xml
+c:\users\user\documents\visual studio 2015\Projects\ProyectoVisualBasic\BackEnd\obj\Debug\BackEnd.pdb
